@@ -1,0 +1,6 @@
+credentials.ini
+venv
+correos/*.eml
+cookies
+*~
+#*
