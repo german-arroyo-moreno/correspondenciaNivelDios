@@ -100,3 +100,7 @@ Puedes usar el archivo `credentials.ini` del anterior programa si no quieres int
 ## Notas finales
 
 En la carpeta ejemplo tienes varios ficheros de ejemplo que puedes usar como plantilla y para realizar las pruebas.
+
+Puedes ver el vídeo de demostración aquí:
+
+<https://youtu.be/xF0qNxo1TSU>
