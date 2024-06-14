@@ -2,6 +2,8 @@
 
 Este programa se organiza en dos carpetas. Por un lado, el programa más sencillo que permite generar los emails pero no enviarlos (correspondencia-email), por otro, una versión más sofisticada con interfaz en streamlit (correspondencia-email-streamlit) que sí permite el envío de correos.
 
+![](imagenes/aplicacion.png)
+
 Ambos programas comparten instrucciones de instalación.
 
 # Manual de instalación
@@ -98,5 +100,3 @@ Puedes usar el archivo `credentials.ini` del anterior programa si no quieres int
 ## Notas finales
 
 En la carpeta ejemplo tienes varios ficheros de ejemplo que puedes usar como plantilla y para realizar las pruebas.
-
-![](imagenes/aplicacion.png)
